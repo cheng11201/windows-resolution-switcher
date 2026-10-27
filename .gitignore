@@ -1,0 +1,16 @@
+release/
+artifacts/
+.ai-memory/
+.vs/
+obj/
+bin/
+*.user
+*.suo
+*.log
+*.tmp
+*.bak
+config*.json
+pending*.json
+*.ready
+.env
+.env.*
